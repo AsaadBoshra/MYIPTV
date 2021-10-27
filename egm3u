@@ -171,5 +171,5 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1,group-title="XXX", ADULT smileTV2
-http://94.46.245.190:8000/play/a02b/index.m3u8
+#EXTINF:-1,group-title="XXX", ADULTRI_1
+http://www.q7t1.com:8000/live/1234/56789/811.ts
