@@ -172,8 +172,6 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-id="RotanaPlus.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" group-title="General",Rotana+ (1080p)
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 tvg-id="SAT7ARABIC.cy" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" group-title="Religious",SAT-7 ARABIC (720p)
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="Movies",MBC 2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
 #EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="",MBC 5
