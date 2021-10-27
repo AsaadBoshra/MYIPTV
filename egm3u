@@ -171,11 +171,11 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1,XXX m3u8 Honey
-http://edge2.everyon.tv/etv2/phd928/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Hot Movies
-http://edge2.everyon.tv/etv2/phd511/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 J Hot Girl
-http://edge2.everyon.tv/etv2/pld59/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Sakura
-http://edge2.everyon.tv/etv2/pld61/HasBahCa.m3u8
+#EXTINF:0 tvg-name="LR6 Mitre HD" audio-track="" tvg-logo="", LR6 Mitre HD
+http://publish.fibertel.qaotic.net:1935/live/MITREHD-10002/master.m3u8
+#EXTINF:0 tvg-name="Magazine" audio-track="" tvg-logo="", Magazine
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:0 tvg-name="TVP HD" audio-track="" tvg-logo="", TVP HD
+rtmp://active.telecomcdn.com/canal7vivoflash/canal7vivoflash/livestream
+#EXTINF:0 tvg-name="TVP HD Alternativo" audio-track="" tvg-logo="", TVP HD Alternativo
+http://publish.fibertel.qaotic.net:1935/live/c7live01-20034/master.m3u8
