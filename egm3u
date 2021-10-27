@@ -171,106 +171,11 @@ https://euronews-euronews-world-1.roku.wurl.com/manifest/71bf778598cc9ce36952bb8
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 
-#EXTINF:-1,Nuart
-http://78.111.176.132:8080
-#EXTINF:-1,Russian Night
-http://78.111.176.132:8082
-http://84.243.221.164:8000/play/a01p
-#EXTINF:-1,HOT 01
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-15/0/pc.m3u8
-#EXTINF:-1,HOT 02
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-16/0/pc.m3u8
-#EXTINF:-1,HOT 03 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-17/0/pc.m3u8
-#EXTINF:-1,HOT 04 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-18/0/pc.m3u8
-#EXTINF:-1,HOT
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-19/0/pc.m3u8
-#EXTINF:-1,HOT 05 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-21/0/pc.m3u8
-#EXTINF:-1,HOT 6
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-26/0/pc.m3u8
-#EXTINF:-1,HOT 07 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-27/0/pc.m3u8
-#EXTINF:-1,HOT 08
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-28/0/pc.m3u8
-#EXTINF:-1,HOT X
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-30/0/pc.m3u8
-#EXTINF:-1,HOT 9
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-31/0/pc.m3u8
-#EXTINF:-1,HOT 10 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-36/0/pc.m3u8
-#EXTINF:-1,HOT XXX
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-37/0/pc.m3u8
-#EXTINF:-1,HOT 11 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-45/0/pc.m3u8
-#EXTINF:-1,HOT 12 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-47/0/pc.m3u8
-#EXTINF:-1,HOT 13 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-48/0/pc.m3u8
-#EXTINF:-1,HOT 14
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-49/0/pc.m3u8
-#EXTINF:-1,HOT 15 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-50/0/pc.m3u8
-#EXTINF:-1,HOT 16 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-51/0/pc.m3u8
-#EXTINF:-1,HOT 17 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-52/0/pc.m3u8
-#EXTINF:-1,HOT 18 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-53/0/pc.m3u8
-#EXTINF:-1,HOT 19 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-54/0/pc.m3u8
-#EXTINF:-1,HOT 20 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-63/0/pc.m3u8
-#EXTINF:-1,HOT 21 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-64/0/pc.m3u8
-#EXTINF:-1,HOT ero
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-66/0/pc.m3u8
-#EXTINF:-1,HOT 22 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-68/0/pc.m3u8
-#EXTINF:-1,NHOT 23
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-70/0/pc.m3u8
-#EXTINF:-1,HOT 24 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-71/0/pc.m3u8
-#EXTINF:-1,HOT erotic HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-72/0/pc.m3u8
-#EXTINF:-1,HOT 25 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-73/0/pc.m3u8
-#EXTINF:-1,HOT 26 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-74/0/pc.m3u8
-#EXTINF:-1,HOT 27
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-75/0/pc.m3u8
-#EXTINF:-1,HOT 28
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-76/0/pc.m3u8
-#EXTINF:-1,erotic
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-77/0/pc.m3u8
-#EXTINF:-1,HOT 29
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-78/0/pc.m3u8
-#EXTINF:-1,HOT 30
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-79/0/pc.m3u8
-#EXTINF:-1,HOT 31
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-80/0/pc.m3u8
-#EXTINF:-1,HOT 32 HD
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-92/0/pc.m3u8
-#EXTINF:-1,HOT 33
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-105/0/pc.m3u8
-#EXTINF:-1,HOT 34
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-107/0/pc.m3u8
-#EXTINF:-1,HOT 35
-http://playlist.prg09.v-ip-tv.com/atip/3/21/channel-108/0/pc.m3u8
-#EXTINF:-1,Adult live tv1
-http://37.9.0.201:8888
-#EXTINF:-1,Adult live tv2
-http://37.9.0.201:8889
-#EXTINF:-1,Adult live tv3
-http://37.9.0.201:8890
-#EXTINF:-1,Adult live tv4
-http://37.9.0.201:8811
-#EXTINF:-1,Sex Zone (18+)
-http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
-#EXTINF:-1,VISIT-X TV (18+)
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1,Fundorado (18+)
-http://streaming.fundorado.com/fundoradotv/live.stream/playlist.m3u8
-#EXTINF:-1,Cento X Cento TV (18+)
-http://37.9.0.201:8811
+#EXTINF:-1,XXX m3u8 Honey
+http://edge2.everyon.tv/etv2/phd928/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Hot Movies
+http://edge2.everyon.tv/etv2/phd511/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 J Hot Girl
+http://edge2.everyon.tv/etv2/pld59/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Sakura
+http://edge2.everyon.tv/etv2/pld61/HasBahCa.m3u8
