@@ -13,21 +13,21 @@ https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s69/index.m3u8
-#EXTINF:-1 tvg-id="AppleAflam.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",Apple Aflam (576p)
+#EXTINF:-1 tvg-id="AppleAflam.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="Movies",Apple Aflam (576p)
 http://213.162.202.5:4000/play/a09p/index.m3u8
-#EXTINF:-1 tvg-id="AppleAlwan.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",Apple Alwan (576p)
+#EXTINF:-1 tvg-id="AppleAlwan.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="Movies",Apple Alwan (576p)
 http://213.162.202.5:4000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="AppleCinema.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",Apple Cinema (576p)
+#EXTINF:-1 tvg-id="AppleCinema.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="Movies",Apple Cinema (576p)
 http://213.162.202.5:4000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-id="AppleComedy.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",Apple Comedy (576p)
+#EXTINF:-1 tvg-id="AppleComedy.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="Comedy",Apple Comedy (576p)
 http://213.162.202.5:4000/play/a09a/index.m3u8
-#EXTINF:-1 tvg-id="AppleHekayat.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",Apple Hekayat (576p)
+#EXTINF:-1 tvg-id="AppleHekayat.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="General",Apple Hekayat (576p)
 http://213.162.202.5:4000/play/a0a1/index.m3u8
-#EXTINF:-1 tvg-id="AppleMoslsalat.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",Apple Moslsalat (576p)
+#EXTINF:-1 tvg-id="AppleMoslsalat.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="General",Apple Moslsalat (576p)
 http://213.162.202.5:4000/play/a09l/index.m3u8
-#EXTINF:-1 tvg-id="AppleToday.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="",Apple Today (576p)
+#EXTINF:-1 tvg-id="AppleToday.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="General",Apple Today (576p)
 http://213.162.202.5:4000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-id="ATVSat.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/14EjTS3.png" group-title="",ATVSat (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATVSat.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/14EjTS3.png" group-title="Religious",ATVSat (1080p) [Not 24/7]
 https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="News",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live.mpd
