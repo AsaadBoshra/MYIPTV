@@ -166,9 +166,9 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
 #EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.AR.| MBC 2" tvg-logo="http://one-iptv.com/logoX/mbc/mbc2.png" group-title="Movies",|.AR.| MBC 2
 http://152.89.61.181:25443/2233445566/2233445566/15741
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC 2 HD" tvg-logo="http://one-iptv.com/logoX/mbc/mbc2.png" group-title="ARABIC MBC",|.AR.| MBC 2 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC 2 HD" tvg-logo="http://one-iptv.com/logoX/mbc/mbc2.png" group-title="Movies",|.AR.| MBC 2 HD
 http://152.89.61.181:25443/2233445566/2233445566/15886
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC 2 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_mbc2.png" group-title="ARABIC MYHD",|.AR.| MBC 2 HD
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC 2 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_mbc2.png" group-title="Movies",|.AR.| MBC 2 HD
 http://152.89.61.181:25443/2233445566/2233445566/67517
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| MBC ACTION" tvg-logo="http://one-iptv.com/logoX/mbc/mbcaction.png" group-title="Movies",|.AR.| MBC ACTION
 http://152.89.61.181:25443/2233445566/2233445566/15737
