@@ -168,22 +168,12 @@ https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
 http://152.89.61.181:25443/2233445566/2233445566/15741
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC 2 HD" tvg-logo="http://one-iptv.com/logoX/mbc/mbc2.png" group-title="Movies",|.AR.| MBC 2 HD
 http://152.89.61.181:25443/2233445566/2233445566/15886
-#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC 2 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_mbc2.png" group-title="Movies",|.AR.| MBC 2 HD
-http://152.89.61.181:25443/2233445566/2233445566/67517
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| MBC ACTION" tvg-logo="http://one-iptv.com/logoX/mbc/mbcaction.png" group-title="Movies",|.AR.| MBC ACTION
 http://152.89.61.181:25443/2233445566/2233445566/15737
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| MBC ACTION HD" tvg-logo="http://one-iptv.com/logoX/mbc/mbcaction.png" group-title="Movies",|.AR.| MBC ACTION HD
 http://152.89.61.181:25443/2233445566/2233445566/15883
-#EXTINF:-1 tvg-id="" tvg-name="|.AR.| MBC ACTION HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_AFC_1C_800_DCA0000_0_0_0.png" group-title="Movies",|.AR.| MBC ACTION HD
-http://152.89.61.181:25443/2233445566/2233445566/67520
-#EXTINF:-1 tvg-id="" tvg-name="|.AR.| MY MBC ACTION HD" tvg-logo="" group-title="Movies",|.AR.| MY MBC ACTION HD
-http://152.89.61.181:25443/2233445566/2233445566/67527
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC MAX HD" tvg-logo="http://one-iptv.com/logoX/mbc/mbcmax.png" group-title="Movies",|.AR.| MBC MAX HD
 http://152.89.61.181:25443/2233445566/2233445566/15879
-#EXTINF:-1 tvg-id="" tvg-name="|.AL.A| FOX MOVIES" tvg-logo="" group-title="Movies",|.AL.A| FOX MOVIES
-http://152.89.61.181:25443/2233445566/2233445566/105800
-#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="|.LATINO.| FOX MOVIES" tvg-logo="http://one-iptv.com/imageslogo/FoxMovies.pt.png" group-title="Movies",|.LATINO.| FOX MOVIES
-http://152.89.61.181:25443/2233445566/2233445566/67369
 #EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.AR.| MBC MAX" tvg-logo="http://one-iptv.com/logoX/mbc/mbcmax.png" group-title="Movies",|.AR.| MBC MAX
 http://152.89.61.181:25443/2233445566/2233445566/15738
 #EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.AR.| FOX MOVIES HD" tvg-logo="http://one-iptv.com/imageslogo/FoxMovies.pt.png" group-title="Movies",|.AR.| FOX MOVIES HD
