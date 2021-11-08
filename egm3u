@@ -164,9 +164,7 @@ https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="General",MBC 5
 https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
-#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.AR.| MBC 2" tvg-logo="http://one-iptv.com/logoX/mbc/mbc2.png" group-title="Movies",|.AR.| MBC 2
-http://152.89.61.181:25443/2233445566/2233445566/15741
-#EXTINF:-1,MBC 2
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="MBC 2" tvg-logo="http://one-iptv.com/logoX/mbc/mbc2.png" group-title="Movies",MBC 2
 rtmp://live-f01.vustream.net/live/livestream
 #EXTINF:-1 tvg-id="" tvg-name="|.AR.| MBC ACTION" tvg-logo="http://one-iptv.com/logoX/mbc/mbcaction.png" group-title="Movies",|.AR.| MBC ACTION
 http://152.89.61.181:25443/2233445566/2233445566/15737
